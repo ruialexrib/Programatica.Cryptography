@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programatica.Cryptography/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.DataProtection.Abstractions": "5.0.8"
+        },
+        "runtime": {
+          "Programatica.Cryptography.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.DataProtection.Abstractions/5.0.8": {
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31805"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programatica.Cryptography/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.DataProtection.Abstractions/5.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZI9S2NGjuOKXN3PxJcF8EKVwd1cqpWyUSqiVoH8gqq5tlHaXULwPmoR0DBOFON4sEFETRWI69f5RQ3tJWw205A==",
+      "path": "microsoft.aspnetcore.dataprotection.abstractions/5.0.8",
+      "hashPath": "microsoft.aspnetcore.dataprotection.abstractions.5.0.8.nupkg.sha512"
+    }
+  }
+}

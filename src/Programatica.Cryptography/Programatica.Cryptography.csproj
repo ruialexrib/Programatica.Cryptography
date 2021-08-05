@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;net5.0</TargetFrameworks>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Authors>ruialexrib</Authors>
+    <Company>Programatica Software</Company>
+    <RepositoryUrl>https://github.com/ruialexrib/Programatica.Cryptography</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Cryptography</PackageProjectUrl>
+    <Description>Wrapper class around RijndaelManaged cryptography class</Description>
+    <Copyright>Copyright ©  Programatica Software 2021</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>cryptography csharp</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.Abstractions" Version="5.0.8" />
+  </ItemGroup>
+
+</Project>

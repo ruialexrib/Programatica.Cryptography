@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Programatica.Cryptography</id>
+    <version>1.0.0</version>
+    <authors>ruialexrib</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/ruialexrib/Programatica.Cryptography</projectUrl>
+    <description>Wrapper class around RijndaelManaged cryptography class</description>
+    <copyright>Copyright ©  Programatica Software 2021</copyright>
+    <tags>cryptography csharp</tags>
+    <repository url="https://github.com/ruialexrib/Programatica.Cryptography" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Microsoft.AspNetCore.DataProtection.Abstractions" version="5.0.8" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.AspNetCore.DataProtection.Abstractions" version="5.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net461\Programatica.Cryptography.dll" target="lib\net461\Programatica.Cryptography.dll" />
+    <file src="C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.dll" target="lib\net5.0\Programatica.Cryptography.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.deps.json
+C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.dll
+C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\ref\Programatica.Cryptography.dll
+C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.pdb
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.AssemblyInfoInputs.cache
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.AssemblyInfo.cs
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.dll
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\ref\Programatica.Cryptography.dll
+C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net5.0\Programatica.Cryptography.pdb
