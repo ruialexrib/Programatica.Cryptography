@@ -1,2 +1,2 @@
 # Programatica.Cryptography
-Wrapper class around RijndaelManaged cryptography class
+Simple String CipherService
