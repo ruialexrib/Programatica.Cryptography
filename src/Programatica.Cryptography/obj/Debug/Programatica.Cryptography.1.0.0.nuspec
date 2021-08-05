@@ -22,7 +22,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net461\Programatica.Cryptography.dll" target="lib\net461\Programatica.Cryptography.dll" />
-    <file src="C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.dll" target="lib\net5.0\Programatica.Cryptography.dll" />
+    <file src="C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\bin\Debug\net461\Programatica.Cryptography.dll" target="lib\net461\Programatica.Cryptography.dll" />
+    <file src="C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\bin\Debug\net5.0\Programatica.Cryptography.dll" target="lib\net5.0\Programatica.Cryptography.dll" />
   </files>
 </package>

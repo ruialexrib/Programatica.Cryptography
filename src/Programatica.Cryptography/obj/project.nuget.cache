@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YdI7sKklTvL3WYNQ1Pulj8BCI+fp+1f5RiQm15GlO3b5RD3Vp+fPNr+O+YoTkjE0LoprN/BQzrUjuyppVMWybw==",
+  "dgSpecHash": "zi6a6F4+VXHUjgifWg64t9Tg3XDiQB+JgmWQ4c/dric+qOfL8fKNtrxENpBlmwDHBWIWWYEk/7RwvYq3Z0tLtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruial\\source\\repos\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
+  "projectFilePath": "C:\\Users\\ruial\\Documents\\GitHub\\Programatica.Cryptography\\src\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruial\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\5.0.8\\microsoft.aspnetcore.dataprotection.abstractions.5.0.8.nupkg.sha512"
   ],

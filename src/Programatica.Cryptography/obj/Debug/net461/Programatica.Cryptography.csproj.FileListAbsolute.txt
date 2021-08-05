@@ -7,3 +7,13 @@ C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net461\Programat
 C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.pdb
 C:\Users\ruial\source\repos\Programatica.Cryptography\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\ruial\source\repos\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.csproj.CopyComplete
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\bin\Debug\net461\Programatica.Cryptography.dll
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\bin\Debug\net461\Programatica.Cryptography.pdb
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.csproj.AssemblyReference.cache
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.AssemblyInfoInputs.cache
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.AssemblyInfo.cs
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.csproj.CopyComplete
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.dll
+C:\Users\ruial\Documents\GitHub\Programatica.Cryptography\src\Programatica.Cryptography\obj\Debug\net461\Programatica.Cryptography.pdb

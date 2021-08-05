@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruial\\source\\repos\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
+      "projectUniqueName": "C:\\Users\\ruial\\Documents\\GitHub\\Programatica.Cryptography\\src\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
       "projectName": "Programatica.Cryptography",
-      "projectPath": "C:\\Users\\ruial\\source\\repos\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
+      "projectPath": "C:\\Users\\ruial\\Documents\\GitHub\\Programatica.Cryptography\\src\\Programatica.Cryptography\\Programatica.Cryptography.csproj",
       "packagesPath": "C:\\Users\\ruial\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruial\\source\\repos\\Programatica.Cryptography\\obj\\",
+      "outputPath": "C:\\Users\\ruial\\Documents\\GitHub\\Programatica.Cryptography\\src\\Programatica.Cryptography\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
